@@ -1,0 +1,26 @@
+npm install react-router-dom@5
+
+{
+    "history": {
+        "length": 32,
+        "action": "POP",
+        "location": {
+            "pathname": "/login",
+            "search": "",
+            "hash": "",
+            "key": "9byvbg"
+        }
+    },
+    "location": {
+        "pathname": "/login",
+        "search": "",
+        "hash": "",
+        "key": "9byvbg"
+    },
+    "match": {
+        "path": "/login",
+        "url": "/login",
+        "isExact": true,
+        "params": {}
+    }
+}
